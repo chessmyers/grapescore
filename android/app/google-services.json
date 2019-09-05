@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917700233653",
+    "firebase_url": "https://grapescore-42d40.firebaseio.com",
+    "project_id": "grapescore-42d40",
+    "storage_bucket": "grapescore-42d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917700233653:android:feeba20cdc16b182",
+        "android_client_info": {
+          "package_name": "com.atmosapps.grapescore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917700233653-rbjtddh70u8d74gip60clp2mbup9rvmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeHPkP6oLpMzA4ygCZQLeA6e-z1lZVQWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917700233653-rbjtddh70u8d74gip60clp2mbup9rvmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

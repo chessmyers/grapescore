@@ -1,8 +1,8 @@
 # Uncomment the next line to define a global platform for your project
 platform :ios, '9.0'
 
-target 'RNFirebaseStarter' do
-  # Pods for RNFirebaseStarter
+target 'GrapeScore' do
+  # Pods for GrapeScore
   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
 
@@ -23,15 +23,17 @@ target 'RNFirebaseStarter' do
   pod 'Fabric', '~> 1.10.2'
   pod 'Crashlytics', '~> 3.13.2'
 
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
 end
 
-target 'RNFirebaseStarter-tvOS' do
+target 'GrapeScore-tvOS' do
   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
 
-  # Pods for RNFirebaseStarter-tvOS
+  # Pods for GrapeScore-tvOS
 
-  target 'RNFirebaseStarter-tvOSTests' do
+  target 'GrapeScore-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
